@@ -1,0 +1,4 @@
+letsignore.txt
+ignore
+
+**/node_modules/
